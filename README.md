@@ -16,6 +16,10 @@
 -   選択したファイルをダウンロード
 -   認証後のログアウトに対応
 
+## ダウンロード
+
+[こちら](https://github.com/nullpus/LanFileShare/releases/latest/download/lan_file_share.py)からやってください！
+
 ## 動作環境
 
 -   Python 3.10以降を推奨
